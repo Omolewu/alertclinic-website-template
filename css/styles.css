@@ -1,0 +1,12 @@
+body {
+  color: #1e62d0;
+  background-color: white;
+  margin: 0 20rem 0 20rem ;
+  align-items: center;
+}
+h1{
+  font-size: 5rem;
+}
+h2{
+  font-size: 2rem; 
+}
